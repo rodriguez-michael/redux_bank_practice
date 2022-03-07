@@ -6,6 +6,3 @@ export const store = createStore(
   // default state
   {}
 )
-
-//store returns key value pairs from combined reducers (reducers index.js)
-//combnined reducers takes in all individual reducers
